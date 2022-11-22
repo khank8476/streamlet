@@ -1,0 +1,1 @@
+Streamlet is a CMS for Streaming movies, series, TV shows, and Live TV. Streamlet works smoothly on all devices.
